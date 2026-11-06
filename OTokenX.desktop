@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OTokenX
+Comment=Windows Token/Privilege Analyzer
+Exec=OTokenX
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OAttack;
